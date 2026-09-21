@@ -42,9 +42,12 @@ https://sundaydesk.app/products/cozy-stage/
 
 ## Status
 
-Cozy Stage is free while in active development and is planned as a single
-one-time purchase at launch. This repository is mirrored from internal development and synced at each release — issues are welcome, but there is
-no SLA; see CONTRIBUTING.md.
+Cozy Stage is in active development — it is beta software, and rough edges
+are expected. Behavior can change and things can break between synced
+releases; please report anything that does. It is free while it matures and
+is planned as a single one-time purchase at launch. This repository is
+mirrored from internal development and synced at each release — issues are
+welcome, but there is no SLA; see CONTRIBUTING.md.
 
 ## License
 
