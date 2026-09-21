@@ -1,8 +1,16 @@
+<div align="center">
+
+<img src="assets/icon.png" width="128" alt="The Cozy Stage app icon">
+
 # Cozy Stage
 
-Native macOS switcher — see every Screen, activate the exact window.
+**Native macOS switcher — see every Screen, activate the exact window.**
 
-![Cozy Stage](assets/hero.png)
+[Download the beta](https://sundaydesk.app/products/cozy-stage/) · [Build from source](docs/build.md) · [Report an issue](../../issues)
+
+</div>
+
+![Cozy Stage HUD — the Workspace Overview across displays](assets/hero.png)
 
 Cozy Stage is a native macOS menu bar app for people who work across many
 windows and displays. One keystroke opens the Workspace Overview HUD: every
