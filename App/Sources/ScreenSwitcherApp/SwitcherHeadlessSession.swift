@@ -19,7 +19,8 @@ private struct SwitcherHeadlessSelection {
 
 /// A presentation-free compatibility model for semantic runtime sessions.
 ///
-/// The production presenter is `FullscreenWorkspaceController`. This model is
+/// The production presenter is `FocusScreenController` (compact Workspace
+/// Overview HUD). This model is
 /// intentionally limited to a frozen snapshot, stable ID selection, and the
 /// asynchronous action lifecycle needed by dev/test semantic adapters.
 @MainActor
