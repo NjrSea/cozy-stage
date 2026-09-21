@@ -52,4 +52,9 @@ MIT — see [LICENSE](LICENSE). The Cozy Stage name and logo are not covered by 
 
 ---
 
+## More from Sunday Desk
+
+- **[Kelyra](https://kelyra.ai/)** — turns source-grounded AI answers into durable local Markdown knowledge.
+- New releases land in the Sunday Desk mailing list first — [sundaydesk.app](https://sundaydesk.app/).
+
 Cozy Stage is made by Sunday Desk — thoughtful software for everyday work.
