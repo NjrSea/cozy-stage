@@ -1,0 +1,3 @@
+MainActor.assumeIsolated {
+    ScreenSwitcherApp.main()
+}

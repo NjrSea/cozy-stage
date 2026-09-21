@@ -1,0 +1,36 @@
+workspace tab=switch outer-frame=false settings=false top-tab-groups=1
+environment appearance=dark motion=standard transparency=material contrast-border=1.00
+left-rail visible=true width=96.00 padding=9.00 item=76.00 radius=18.00
+display-art max=68x48 source=public-vector
+display-card width=952.56 viewport-ratio=0.63 role=content-surface
+preview semantic=schematic:display-window-grid-v1
+app-layer parent=screen-switcher.workspace.switch.display-card role=action-glass inside=true
+app-grid budget=682.56 columns=10 rows=3 pages=2 cell=64 icon=48 gap=12 required=748.00 rendered=748.00 alignment=leading
+page-indicator style=dots visible-count=false accessibility-label=App page 1 of 2
+viewport horizontal-scroll=false vertical-scroll=false
+app[A] row=0 column=0 id=screen-switcher.workspace.switch.app.bundle:363919c82172b51b label=Fixture App 1 icon=fallback name-visible=false keycap=external
+app[B] row=0 column=1 id=screen-switcher.workspace.switch.app.bundle:a9080d918d8ff1ea label=Fixture App 2 icon=fallback name-visible=false keycap=external
+app[C] row=0 column=2 id=screen-switcher.workspace.switch.app.bundle:4dc5cdc5fb317b0b label=Fixture App 3 icon=fallback name-visible=false keycap=external
+app[D] row=0 column=3 id=screen-switcher.workspace.switch.app.bundle:b468254bb2b75a24 label=Fixture App 4 icon=fallback name-visible=false keycap=external
+app[E] row=0 column=4 id=screen-switcher.workspace.switch.app.bundle:74784197483f4892 label=Fixture App 5 icon=fallback name-visible=false keycap=external
+app[F] row=0 column=5 id=screen-switcher.workspace.switch.app.bundle:481833650eef0449 label=Fixture App 6 icon=fallback name-visible=false keycap=external
+app[G] row=0 column=6 id=screen-switcher.workspace.switch.app.bundle:10ca11a7f7568768 label=Fixture App 7 icon=fallback name-visible=false keycap=external
+app[H] row=0 column=7 id=screen-switcher.workspace.switch.app.bundle:f15cd3a14566d117 label=Fixture App 8 icon=fallback name-visible=false keycap=external
+app[I] row=0 column=8 id=screen-switcher.workspace.switch.app.bundle:ad6675d83c42310e label=Fixture App 9 icon=fallback name-visible=false keycap=external
+app[J] row=0 column=9 id=screen-switcher.workspace.switch.app.bundle:b23ca71e3bca9dc9 label=Fixture App 10 icon=fallback name-visible=false keycap=external
+app[K] row=1 column=0 id=screen-switcher.workspace.switch.app.bundle:3e6760955fce0e57 label=Fixture App 11 icon=fallback name-visible=false keycap=external
+app[L] row=1 column=1 id=screen-switcher.workspace.switch.app.bundle:826d71bf63cbe398 label=Fixture App 12 icon=fallback name-visible=false keycap=external
+app[M] row=1 column=2 id=screen-switcher.workspace.switch.app.bundle:4f49392f27df2811 label=Fixture App 13 icon=fallback name-visible=false keycap=external
+app[N] row=1 column=3 id=screen-switcher.workspace.switch.app.bundle:70171756926d02aa label=Fixture App 14 icon=fallback name-visible=false keycap=external
+app[O] row=1 column=4 id=screen-switcher.workspace.switch.app.bundle:0b7dab374a4a014e label=Fixture App 15 icon=fallback name-visible=false keycap=external
+app[P] row=1 column=5 id=screen-switcher.workspace.switch.app.bundle:2b3b1b5ec47cc9be label=Fixture App 16 icon=fallback name-visible=false keycap=external
+app[Q] row=1 column=6 id=screen-switcher.workspace.switch.app.bundle:53618fa9854697b2 label=Fixture App 17 icon=fallback name-visible=false keycap=external
+app[R] row=1 column=7 id=screen-switcher.workspace.switch.app.bundle:983e2c9edecd22c2 label=Fixture App 18 icon=fallback name-visible=false keycap=external
+app[S] row=1 column=8 id=screen-switcher.workspace.switch.app.bundle:6482f34dc08af518 label=Fixture App 19 icon=fallback name-visible=false keycap=external
+app[T] row=1 column=9 id=screen-switcher.workspace.switch.app.bundle:3dfe15e21934061c label=Fixture App 20 icon=fallback name-visible=false keycap=external
+app[U] row=2 column=0 id=screen-switcher.workspace.switch.app.bundle:b4293da7fdbbe759 label=Fixture App 21 icon=fallback name-visible=false keycap=external
+app[V] row=2 column=1 id=screen-switcher.workspace.switch.app.bundle:3bb01b37e068cdf5 label=Fixture App 22 icon=fallback name-visible=false keycap=external
+app[W] row=2 column=2 id=screen-switcher.workspace.switch.app.bundle:2a093e39d5034458 label=Fixture App 23 icon=fallback name-visible=false keycap=external
+app[X] row=2 column=3 id=screen-switcher.workspace.switch.app.bundle:8cf7b3c6bd4c2a5e label=Fixture App 24 icon=fallback name-visible=false keycap=external
+app[Y] row=2 column=4 id=screen-switcher.workspace.switch.app.bundle:25c609a26b668f22 label=Fixture App 25 icon=fallback name-visible=false keycap=external
+app[Z] row=2 column=5 id=screen-switcher.workspace.switch.app.bundle:49f632959bd167df label=Fixture App 26 icon=fallback name-visible=false keycap=external

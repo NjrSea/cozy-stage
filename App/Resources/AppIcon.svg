@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="app-icon-mask">
+      <rect x="64" y="64" width="896" height="896" rx="200"/>
+    </clipPath>
+    <clipPath id="stage-clip">
+      <path d="M12 106V48C12 24 40 12 80 12s68 12 68 36v58Z"/>
+    </clipPath>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#5B21D1"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#1237D7"/>
+    </linearGradient>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FB7185"/>
+      <stop offset="1" stop-color="#F43F5E"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#app-icon-mask)">
+    <rect x="64" y="64" width="896" height="896" fill="#F7F3EC"/>
+    <g transform="translate(112 232) scale(5)">
+      <g clip-path="url(#stage-clip)">
+        <rect x="12" y="12" width="136" height="94" fill="url(#violet)"/>
+        <path d="M10 40c31-4 45 8 59 29 8 12 17 17 28 18l-31 24H10Z" fill="url(#cyan)"/>
+        <path d="M8 64c24-5 45 9 54 36l3 12H8Z" fill="url(#blue)"/>
+        <path d="M61 112c5-30 28-37 40-62 10-20 28-29 53-27v89Z" fill="url(#coral)"/>
+        <path d="M98 112c14-27 33-38 58-43v43Z" fill="url(#amber)"/>
+        <path d="M8 101q72-15 144 0v18H8Z" fill="#17120D"/>
+      </g>
+      <path d="M12 100V48C12 24 40 12 80 12s68 12 68 36v52"
+            fill="none" stroke="#17120D" stroke-width="10"
+            stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M7 102h146" fill="none" stroke="#17120D" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

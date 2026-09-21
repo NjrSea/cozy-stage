@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-09-21T07:36:07.599Z",
+  "files": {
+    "dirs": [
+      "App/Sources",
+      "App/Tests",
+      "App/Resources",
+      "Packages/ScreenDomainCore",
+      "Packages/PagedNavigationCore",
+      "Packages/KeyboardShortcuts"
+    ],
+    "files": [
+      "App/Info.plist",
+      "App/Package.swift"
+    ]
+  },
+  "scrub": {
+    "filesScrubbed": 27,
+    "sample": [
+      "App/Sources/ScreenSwitcherApp/AppDelegate.swift",
+      "App/Sources/ScreenSwitcherApp/FocusHUDController.swift",
+      "App/Sources/ScreenSwitcherApp/FocusPaneView.swift",
+      "App/Sources/ScreenSwitcherApp/FocusScreenController.swift",
+      "App/Sources/ScreenSwitcherApp/FocusScreenSemanticRuntime.swift"
+    ]
+  },
+  "denylist": "clean",
+  "build": "passed"
+}
